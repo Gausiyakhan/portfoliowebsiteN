@@ -1,0 +1,22 @@
+.education {
+  width: 70%;
+  /* background-color: red; */
+  text-align: center;
+  margin: auto;
+}
+.education1 {
+  display: flex;
+  justify-content: space-evenly !important;
+  align-items: center;
+}
+.university-img {
+  width: 500px;
+}
+@media screen and (max-width: 768px) {
+  .education1 {
+    flex-direction: column;
+  }
+  .university-img {
+    width: 400px;
+  }
+}
