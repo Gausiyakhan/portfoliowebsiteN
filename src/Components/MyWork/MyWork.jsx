@@ -1,5 +1,5 @@
 import React from "react";
-import Project1 from "../../assets/Project1.png";
+import Project1 from "../../assets/project1.png";
 import searchimage from "../../assets/searchimage.png";
 import ecommercewebsite from "../../assets/ecommercewebsite.png";
 import bankimg from "../../assets/bank-img.png";
